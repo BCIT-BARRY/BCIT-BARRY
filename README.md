@@ -1,8 +1,10 @@
 # Welcome! ⚡
 I'm Barry, a computer student based in Canada.
 
-## Knowledge
+## Knowledge 📚
 Python, SQL, HTML/CSS, JavaScript, Linux, Virtual Machines
+
+### UNDER CONSTRUCTION 🚧
 
 <!--
 **BCIT-BARRY/BCIT-BARRY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
