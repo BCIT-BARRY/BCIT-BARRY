@@ -6,7 +6,7 @@
 
 I design, develop, and maintain production software, specializing in full stack applications, backend systems, cloud infrastructure, and automation.
 
-## 🚀 Selected Projects
+## 🚀 Professional Projects
 
 ### NailEOD
 Production salon operations platform supporting employee management, financial reconciliation, payroll, and reporting. Reduced daily closeout time from 60 to 15 minutes.
