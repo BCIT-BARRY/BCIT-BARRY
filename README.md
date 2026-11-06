@@ -1,23 +1,23 @@
 # Barry Bui
 
-**Founder, [bbdevhq](https://github.com/bbdevhq)**
+**Founder, [bbdevhq](https://github.com/bbdevhq) | Software Developer**
 
-Vancouver, British Columbia, Canada
+📍 Vancouver, British Columbia, Canada
 
-Software developer specializing in full stack applications, backend systems, cloud infrastructure, and software automation.
+I design, develop, and maintain production software, specializing in full stack applications, backend systems, cloud infrastructure, and automation.
 
-## Professional Experience
+## 🚀 Selected Projects
 
-**bbdevhq**  
-Founder. Responsible for software development, system architecture, infrastructure, and technical operations.
+### NailEOD
+Production salon operations platform supporting employee management, financial reconciliation, payroll, and reporting. Reduced daily closeout time from 60 to 15 minutes.
 
-**NailEOD**  
-Production salon management system. Supports employee time tracking, financial reconciliation, payroll, and reporting. Reduced daily closing procedures from 60 minutes to 15 minutes.
+### dockro
+Multi tenant SaaS platform for business scheduling, payment processing, and operations. Built with Next.js, TypeScript, PostgreSQL, Stripe, and automated CI/CD.
 
-**dockro**  
-Multi tenant SaaS platform for business scheduling and operations. Integrates payment processing, communications, authentication, and automated deployment.
+### SCIS Platform
+Industry sponsored community initiatives platform. Contributing to application development, system architecture, testing, and deployment.
 
-## Technical Expertise
+## 🛠️ Technical Expertise
 
 **Languages:** TypeScript, JavaScript, Python, C#, SQL, Bash
 
@@ -29,12 +29,6 @@ Multi tenant SaaS platform for business scheduling and operations. Integrates pa
 
 **Testing:** Playwright, Vitest, pytest
 
-## Education
+## 🔗 Connect
 
-**British Columbia Institute of Technology**
-
-Diploma in Computer Information Technology, in progress.
-
-## Contact
-
-[Website](https://hellobarrybui.dev) | [LinkedIn](https://www.linkedin.com/in/barrybui/)
+🌐 [Personal Website](https://hellobarrybui.dev) · 🏢 [bbdevhq](https://github.com/bbdevhq) · 💼 [LinkedIn](https://linkedin.com/in/barrybui)
